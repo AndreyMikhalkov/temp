@@ -1,0 +1,3 @@
+[submodule "subTemp"]
+	path = subTemp
+	url = git@github.com:AndreyMikhalkov/subTemp.git
