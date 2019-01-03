@@ -1,4 +1,0 @@
-[submodule "subTemp"]
-	path = subTemp
-	url = git@github.com:AndreyMikhalkov/subTemp.git
-	branch = task-branch
